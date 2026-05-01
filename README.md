@@ -36,6 +36,7 @@ HuggingFace BiosBias Dataset: [https://huggingface.co/datasets/LabHC/bias_in_bio
 .
 ├── README.md
 ├── modeling.ipynb
+├── module_summary.pdf
 ├── Machine_Learning_Analysis_Report.pdf
 ├── biasbios.parquet
 ├── requirements.txt
